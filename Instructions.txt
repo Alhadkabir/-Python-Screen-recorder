@@ -1,0 +1,12 @@
+					Python-Screen_Recorder
+
+
+		1. install package PIL
+
+		2. install package Opencv
+
+		3. install package win32api
+
+		4. write codes
+
+					$$Then Enjoy$$
